@@ -1,0 +1,14 @@
+{
+  "name": "part-three",
+  "version": "1.0.0",
+  "description": "my first program with node.js",
+  "main": "color.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maxwell douglas o",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
